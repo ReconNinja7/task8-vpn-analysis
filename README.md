@@ -15,19 +15,19 @@ The objective of this task is to explore the concept of Virtual Private Networks
 
 ### 1. Checking IP Address Before Connecting to VPN
 Before connecting to a VPN, the current public IP address was noted.
-![IP Before VPN](screenshots/ip_before_vpn.png)
+![IP Before VPN](ip_before_vpn.png)
 
 ---
 
 ### 2. Connecting to ProtonVPN
 ProtonVPN was launched, and a connection was established to a Netherlands server.
-![VPN Connected](screenshots/vpn_connected.png)
+![VPN Connected](vpn_connected.png)
 
 ---
 
 ### 3. Checking IP Address After Connecting to VPN
 Once connected, the public IP was checked again to confirm the change, showing the VPN’s server location instead of the original ISP.
-![IP After VPN](screenshots/ip_after_vpn.png)
+![IP After VPN](ip_after_vpn.png)
 
 ---
 
