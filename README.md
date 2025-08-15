@@ -45,5 +45,7 @@ Once connected, the public IP was checked again to confirm the change, showing t
 
 ---
 
-## Author
-**Md Farhan Hussain**
+**🔹 Author:** Mohammad Farhan Hussain
+**🔹 Internship:** Elevate Labs Cybersecurity Internship
+**🔹 Tools:** Proton VPN, whatismyip
+
